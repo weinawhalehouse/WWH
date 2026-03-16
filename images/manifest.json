@@ -169,6 +169,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://weinawhalehouse.github.io/WWH/images/bitonalurl/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "bitonalurl"
+                ]
+            },
+            "height": 913,
+            "width": 1903,
+            "items": [
+                {
+                    "id": "https://weinawhalehouse.github.io/WWH/images/bitonalurl/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://weinawhalehouse.github.io/WWH/images/bitonalurl/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://weinawhalehouse.github.io/WWH/images/bitonalurl/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 60,
+                                                "height": 29
+                                            },
+                                            {
+                                                "width": 119,
+                                                "height": 58
+                                            },
+                                            {
+                                                "width": 238,
+                                                "height": 115
+                                            },
+                                            {
+                                                "width": 476,
+                                                "height": 229
+                                            },
+                                            {
+                                                "width": 952,
+                                                "height": 457
+                                            },
+                                            {
+                                                "width": 1903,
+                                                "height": 913
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1903,
+                                        "@id": "https://weinawhalehouse.github.io/WWH/images/bitonalurl",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 913,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://weinawhalehouse.github.io/WWH/images/bitonalurl/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
