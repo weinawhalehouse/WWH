@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 59,
+    "height" : 24
+  }, {
+    "width" : 118,
+    "height" : 47
+  }, {
+    "width" : 235,
+    "height" : 93
+  }, {
+    "width" : 469,
+    "height" : 186
+  }, {
+    "width" : 938,
+    "height" : 371
+  }, {
+    "width" : 1875,
+    "height" : 741
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1875,
+  "@id" : "https://weinawhalehouse.github.io/WWH/images/annotationexample",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 741
+}
