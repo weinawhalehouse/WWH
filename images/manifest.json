@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://weinawhalehouse.github.io/WWH/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in weinawhalehouse/WWH project"
+        ]
+    },
+    "items": []
+}
