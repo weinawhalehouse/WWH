@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://weinawhalehouse.github.io/WWH/annotations/bnw_annotations.json" ],
+  "otherContent" : [ "https://weinawhalehouse.github.io/WWH/annotations/bnw_annotations.json", "https://weinawhalehouse.github.io/WWH/annotations/annotations.json" ],
   "@id" : "https://weinawhalehouse.github.io/WWH/annotations/collection.json",
   "label" : "All annotations loaded in weinawhalehouse/WWH project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
